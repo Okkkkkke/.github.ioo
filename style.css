@@ -1,0 +1,28 @@
+a{
+    text-decoration: none;
+    font-family: sans-serif;
+    font-size: 20px;
+    padding: 14px 16px;
+    text-align: justify;
+}
+li{
+    list-style: none;
+    display: inline;
+}
+li a{
+    background-color: rgb(241, 128, 96);
+    color: white;
+}
+ul{
+    padding: 14px;
+}
+.navi{
+    background-color: rgb(241, 128, 96);
+    height: 70px;
+}
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+}
+p{
+    background-color: rgb(233, 233, 233);
+}
